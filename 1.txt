@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my code
+=======
+This is my second code
+>>>>>>> 175ef15c8da51f14c2d9d429ccda0c2a88d99234
